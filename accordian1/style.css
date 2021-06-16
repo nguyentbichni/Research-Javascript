@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+	background-color: #444444;
+}
+* {
+  box-sizing: border-box;
+}
+.accordian {
+  max-width: 600px;
+  display: block;
+  margin: 100px auto;
+}
+
+.accordian .accordian-item {
+  box-shadow: 0px 0px 20px #d4d4d4;
+  margin-bottom: 20px;
+  float: left;
+  width: 100%;
+}
+.accordian .accordian-item .accordian-header h3 {
+  cursor: pointer;
+  color: #000000;
+  position: relative;
+  background-color: wheat;
+  margin: 0;
+  padding: 15px 20px;
+}
+.accordian .accordian-item .accordian-header.active h3 {
+	color: #b18841;
+}
+.accordian .accordian-item .accordian-header {
+  position: relative;
+}
+.accordian .accordian-item .accordian-header span {
+  position: absolute;
+  right: 20px;
+  top: 12px;
+  height: 25px;
+  width: 25px;
+  color: #3e3125;
+  background-color: transparent;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 25px;
+  font-size: 13px;
+}
+
+.accordian .accordian-item .accordian-body {
+	background-color: #eee9e0;
+  padding: 20px;
+}
+.accordian .accordian-item .accordian-body {
+  display: none;
+}
+.accordian .accordian-item .accordian-body p {
+	font-size: 15px;
+  line-height: 24px;
+  color: #444444;
+  margin: 0px;
+}
+/* Open when Use with Javascript */
+/* .accordian .accordian-item .accordian-body.active{
+	display: block;
+} */

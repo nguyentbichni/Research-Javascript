@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Accoridan</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css"
+		href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+	<div class="accordian">
+		<div class="accordian-item">
+			<div class="accordian-header">
+				<h3>Accordion Item #1</h3>
+				<span class="fa fa-plus"></span>
+			</div>
+			<div class="accordian-body">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniamLorem ipsum dolor sit amet,
+					consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+			</div>
+		</div>
+
+		<div class="accordian-item">
+			<div class="accordian-header">
+				<h3>Accordion Item #2</h3>
+				<span class="fa fa-plus"></span>
+			</div>
+			<div class="accordian-body">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniamLorem ipsum dolor sit amet,
+					consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+			</div>
+		</div>
+		<div class="accordian-item">
+			<div class="accordian-header">
+				<h3>Accordion Item #3</h3>
+				<span class="fa fa-plus"></span>
+			</div>
+			<div class="accordian-body">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniamLorem ipsum dolor sit amet,
+					consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+			</div>
+		</div>
+		<div class="accordian-item">
+			<div class="accordian-header">
+				<h3>Accordion Item #4</h3>
+				<span class="fa fa-plus"></span>
+			</div>
+			<div class="accordian-body">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniamLorem ipsum dolor sit amet,
+					consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+			</div>
+		</div>
+	</div>
+
+
+	<!-- Use Jquery -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+	<script>
+		$(document).ready(function () {
+			$(".accordian-header").click(function () {
+				if ($(this).next(".accordian-body").hasClass("active")) {
+					$(this).removeClass("active");
+					$(this).next(".accordian-body").removeClass("active").slideUp()
+					$(this).children("span").removeClass("fa-minus").addClass("fa-plus")
+				}
+				else {
+					$(".accordian-header").removeClass("active");
+					$(".accordian-item .accordian-body").removeClass("active").slideUp()
+					$(".accordian-item .accordian-header span").removeClass("fa-minus").addClass("fa-plus");
+					$(this).addClass("active");
+					$(this).next(".accordian-body").addClass("active").slideDown()
+					$(this).children("span").removeClass("fa-plus").addClass("fa-minus")
+				}
+			})
+		})
+		// ---Use Javascript
+		// const acc_btn = document.querySelectorAll(".accordian-header");
+		// const acc_content = document.querySelectorAll(".accordian-body");
+		// const fa_icon = document.querySelectorAll(".fa");
+
+		// acc_btn.forEach((btn, index) => {
+		// 	btn.addEventListener("click", (e) => {
+		// 		acc_content.forEach((acc) => {
+		// 			if(btn.nextElementSibling !== acc && acc.classList.contains("active")) {
+		// 				acc.classList.remove("active");
+		// 				acc_btn.forEach((btn) => {
+		// 					btn.classList.remove("active");
+		// 				})
+		// 				fa_icon.forEach((icon) =>{
+		// 					icon.classList.remove("fa-minus");
+		// 					icon.classList.add("fa-plus");
+		// 				})
+		// 			}
+		// 		})
+		// 		const panel = btn.nextElementSibling;
+		// 		const fa = btn.children[1];
+		// 		btn.classList.toggle("active");
+		// 		panel.classList.toggle("active");
+		// 		fa.classList.toggle("fa-minus");
+		// 	})
+		// })
+	</script>
+
+
+</body>
+
+</html>

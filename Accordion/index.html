@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <title>Accordion</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      background: #d2e6e4;
+    }
+
+    .accordion {
+      width: 800px;
+    }
+
+    .accordion .contentBx {
+      position: relative;
+      margin: 10px 20px;
+    }
+
+    .accordion .contentBx .label {
+      position: relative;
+      padding: 10px;
+      background: #54c6da;
+      color: #ffffff;
+    }
+    .accordion .contentBx .label.active{
+      color: red;
+    }
+    .accordion .contentBx .label::before {
+      content: '+';
+      position: absolute;
+      top: 50%;
+      right: 20px;
+      transform: translateY(-50%);
+      font-size: 1.5em;
+    }
+
+    .accordion .contentBx .content {
+      position: relative;
+      background: #ffffff;
+      height: 0;
+      overflow: auto;
+      transition: all 0.5s;
+    }
+
+    .accordion .contentBx .content.active {
+      height: 150px;
+      padding: 10px;
+    }
+
+    .accordion .contentBx .label.active::before {
+      content: '-';
+    }
+  </style>
+</head>
+
+<body>
+  <div class="accordion">
+    <div class="contentBx">
+      <div class="label">List one</div>
+      <div class="content">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio possimus veniam enim numquam fugit
+        architecto, natus facilis harum magni minima.
+      </div>
+    </div>
+    <div class="contentBx">
+      <div class="label">List Two</div>
+      <div class="content">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio possimus veniam enim numquam fugit
+        architecto, natus facilis harum magni minima.
+      </div>
+    </div>
+    <div class="contentBx">
+      <div class="label">List Three</div>
+      <div class="content">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio possimus veniam enim numquam fugit
+        architecto, natus facilis harum magni minima.
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="./script.js"></script>
+
+  <!-- jquery code -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</body>
+
+</html>

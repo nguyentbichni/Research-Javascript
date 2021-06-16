@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Get Date</title>
+  <style>
+    .text{
+      color: slateblue;
+    }
+  </style>
+</head>
+<body>
+  <p>Today is: <span class="text" id="currentDay"></span></p>
+  <p>Current time is: <span class="text" id="currentTime"></span></p>
+
+  <script type="text/javascript">
+    var day;
+    var d = new Date();
+    switch (d.getDay()) {
+      case 0:
+        day = "Sunday";
+        break;
+      case 1:
+        day = "Monday";
+        break;
+      case 2:
+        day = "Tuesday";
+        break;
+      case 3:
+        day = "Wednesday";
+        break;
+      case 4:
+        day = "Thursday";
+        break;
+      case 5:
+        day = "Friday";
+        break;
+      case 6:
+        day = "Saturday";
+    }
+    document.getElementById("currentDay").innerHTML = day;
+    
+    var hours, minutes, seconds;
+    hours = d.getHours();
+    minutes = d.getMinutes();
+    seconds = d.getSeconds();
+    document.getElementById("currentTime").innerHTML = `${hours} PM : ${minutes} : ${seconds}`
+  </script>
+</body>
+
+</html>
