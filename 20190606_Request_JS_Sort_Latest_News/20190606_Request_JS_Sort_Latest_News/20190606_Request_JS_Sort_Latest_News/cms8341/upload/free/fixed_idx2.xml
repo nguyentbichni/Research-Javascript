@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<template_info>
+
+	<item>
+		<id>idx_thumb</id>
+		<system>idx_thumb</system>
+		<kind>page</kind>
+		<work>1</work>
+		<name>サムネイル画像</name>
+		<publish>1</publish>
+		<ctrl>
+			<type>image</type>
+			<size>
+				<width>240</width>
+			</size>
+		</ctrl>
+	</item>
+
+</template_info>

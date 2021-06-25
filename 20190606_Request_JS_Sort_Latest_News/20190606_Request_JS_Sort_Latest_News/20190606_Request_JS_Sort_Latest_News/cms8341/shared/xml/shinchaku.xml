@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF 
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xml:lang="ja">
+	<channel rdf:about="https://www.city.tachikawa.lg.jp/shinchaku/index.html">
+		<title>立川市 新着情報</title>
+		<link>https://www.city.tachikawa.lg.jp/shinchaku/index.html</link>
+		<description></description>
+		<items>
+			<rdf:Seq>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/koho/shise/koho/koukoku2019.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/kyoikusomu/kosodate/kyoiku/iinkai/iinkai/kaisaijokyo/jikai/index.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/kankyotaisaku/kurashi/sekatsu/kitsuen/20190610-0724.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/shido/kosodate/kyoiku/iinkai/gakko/kyokasho/documents/mihonnbonntennji/mihonnbonntennji.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/kikakuseisaku/shise/kichikanren/tokuteiboueisisetukouhukin.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/kikakuseisaku/shise/kichikanren/2018_tokuteiboueisisetukouhukin.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/bunshohosei/kurashi/zekin/koteshisan/kyotsu/tachikawa.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/bunshohosei/shise/reki/gyosei/gyouseihuhuku.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/shimin/shise/toke/nenrebetsu/nenreh31.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/shimin/shise/toke/chochobetsu/chochoh31.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/shimin/kurashi/jumintoroku/etsuranjokyo.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/seikatsuanzen/kurashi/gomi/recycling/fuyohin.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/chiikibunka/kanko/bunka/bunka/art/kansho.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/chiikibunka/faret/artmap.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/hoiku/shise/saiyo/boshu/syokutakuhoikushibosyuu.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/hoiku/shisetsu/hoikuen/kigyousyudou.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/kenkosuishin/kenko/iryo/kenkoshinsa/gan/daichogan.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/hokennenkin/kurashi/hoken/kokubo/sedo/hokenryo.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/kyoikusomu/kosodate/kyoiku/iinkai/iinkai/kaisaijokyo/r1_10.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/gakkokyushoku/kosodate/kyoiku/iinkai/gakko/kyushoku/jimotoyasai.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/gakkokyushoku/kosodate/kyoiku/iinkai/gakko/kyushoku/chu.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/shogaigakushu/kosodate/kyoiku/iinkai/iinkai/shingikai/gakushukan/saiwai/saiwai-h31gijiroku.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/gikaijimukyoku/shise/shigikai/katsudo/teireikaishingikai/h31/r1-2tere/nittei.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/senkyokanri/shise/senkyo/sedo/r1sangiin/risanngiinnfuzai.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/senkyokanri/shise/senkyo/sedo/fizaishisetu.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/kikakuseisaku/shise/kichikanren/yokota/yokotajoho/20190206cv22osprey_numberoftimes.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/kikakuseisaku/shise/sesaku/kururinshohinken/gaiyou.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/sangyoshinko/5656565.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/supotsushinko/kosodate/kyoiku/iinkai/supo-tsu/shisetsu/shibasaki-taikukan.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/kodomokatei/kosodate/kosodate/shien/family/nyukai.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/kodomokatei/kosodate/kosodate/shien/family/enjyokaiinbosyu.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/hoiku/shise/saiyo/boshu/boshu.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/fukushisomu/kurashi/bochi/kasoba.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/fukushisomu/kenko/fukushi/shisetsu/sodan.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/ninchisho/ninnsapo.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/toshikeikaku/seisanryokuchi/tokutei_shiteisetumeikai.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/toshikeikaku/seisanryokuchi/tokuteiseiryoku_shitei_tetsuduki.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/kenchikushido/shise/toshizukuri/kenchiku/kenchiku/tesuryo.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/gakkokyushoku/kosodate/kyoiku/iinkai/gakko/kyushoku/sanchikohyo.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/gikaijimukyoku/shise/shigikai/katsudo/teireikaishingikai/h31/r1-2tere/gian.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/keiyaku/sangyo/nyusatsu/anken/h261107.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/gyoseikeiei/shise/pfi/sedo/sente/h31-toshin.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/jinji/shise/saiyo/shikenannai/h29saiyou/20190425shikeninfo0107.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/jinji/shise/saiyo/shikenannai/h31saiyou/20190510saiyoushiken.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/keiyaku/sangyo/nyusatsu/keikekka/h31/r010529.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/bosai/bosai/bosaikunren/kakushutikibousai.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/kyodosuishin/kurashi/shimin/jichikai/handbook.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/kyodosuishin/kurashi/shimin/shien/kyodonomatidukuri/30jigyohoukoku.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/hoiku/kosodate/kosodate/hoikuen/h27annai.html"/>
+				<rdf:li rdf:resource="https://www.city.tachikawa.lg.jp/hoiku/kosodate/kosodate/hoikuen/ninka/nyuen/boshujokyo.html"/>
+			</rdf:Seq>
+		</items>
+	</channel>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/koho/shise/koho/koukoku2019.html">
+		<title>広報たちかわ広告掲載事業者（広告代理店）の募集</title>
+		<link>https://www.city.tachikawa.lg.jp/koho/shise/koho/koukoku2019.html</link>
+		<description></description>
+		<dc:creator>総合政策部広報課広報広聴係</dc:creator>
+		<dc:subject>産業・ビジネス,入札・契約</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>総合政策部広報課広報広聴係 </dc:contributor>
+		<dc:date>2019-07-07T08:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/kyoikusomu/kosodate/kyoiku/iinkai/iinkai/kaisaijokyo/jikai/index.html">
+		<title>次回の教育委員会会議のお知らせ</title>
+		<link>https://www.city.tachikawa.lg.jp/kyoikusomu/kosodate/kyoiku/iinkai/iinkai/kaisaijokyo/jikai/index.html</link>
+		<description></description>
+		<dc:creator>教育委員会事務局　教育部教育総務課庶務係</dc:creator>
+		<dc:subject>子育て・教育,教育,教育委員会</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>教育委員会事務局　教育部教育総務課　 </dc:contributor>
+		<dc:date>2019-07-07T08:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/kankyotaisaku/kurashi/sekatsu/kitsuen/20190610-0724.html">
+		<title>小平・村山・大和衛生組合「(仮称)新ごみ焼却施設整備事業」に係る環境影響評価書案の縦覧</title>
+		<link>https://www.city.tachikawa.lg.jp/kankyotaisaku/kurashi/sekatsu/kitsuen/20190610-0724.html</link>
+		<description></description>
+		<dc:creator>環境下水道部環境対策課環境指導係</dc:creator>
+		<dc:subject>くらし・環境,生活環境</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>環境下水道部環境対策課環境指導係 </dc:contributor>
+		<dc:date>2019-06-07T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/shido/kosodate/kyoiku/iinkai/gakko/kyokasho/documents/mihonnbonntennji/mihonnbonntennji.html">
+		<title>小学校用教科書見本本の展示・アンケートの実施について</title>
+		<link>https://www.city.tachikawa.lg.jp/shido/kosodate/kyoiku/iinkai/gakko/kyokasho/documents/mihonnbonntennji/mihonnbonntennji.html</link>
+		<description></description>
+		<dc:creator>教育委員会事務局　教育部指導課指導係</dc:creator>
+		<dc:subject>子育て・教育,教育,教育委員会</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>教育委員会事務局　教育部指導課　 </dc:contributor>
+		<dc:date>2019-06-07T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/kikakuseisaku/shise/kichikanren/tokuteiboueisisetukouhukin.html">
+		<title>特定防衛施設周辺整備調整交付金</title>
+		<link>https://www.city.tachikawa.lg.jp/kikakuseisaku/shise/kichikanren/tokuteiboueisisetukouhukin.html</link>
+		<description></description>
+		<dc:creator>総合政策部企画政策課主査（基地対策・政策調整等担任）</dc:creator>
+		<dc:subject>市政情報,基地関連</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>総合政策部企画政策課　 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/kikakuseisaku/shise/kichikanren/2018_tokuteiboueisisetukouhukin.html">
+		<title>平成30年度特定防衛施設周辺整備調整交付金事業</title>
+		<link>https://www.city.tachikawa.lg.jp/kikakuseisaku/shise/kichikanren/2018_tokuteiboueisisetukouhukin.html</link>
+		<description></description>
+		<dc:creator>総合政策部企画政策課主査（基地対策・政策調整等担任）</dc:creator>
+		<dc:subject>市政情報,基地関連</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>総合政策部企画政策課　 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/bunshohosei/kurashi/zekin/koteshisan/kyotsu/tachikawa.html">
+		<title>立川市固定資産評価審査委員会</title>
+		<link>https://www.city.tachikawa.lg.jp/bunshohosei/kurashi/zekin/koteshisan/kyotsu/tachikawa.html</link>
+		<description></description>
+		<dc:creator>行政管理部文書法政課法政係</dc:creator>
+		<dc:subject>くらし・環境,税金</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>行政管理部文書法政課　 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/bunshohosei/shise/reki/gyosei/gyouseihuhuku.html">
+		<title>行政不服審査制度</title>
+		<link>https://www.city.tachikawa.lg.jp/bunshohosei/shise/reki/gyosei/gyouseihuhuku.html</link>
+		<description></description>
+		<dc:creator>行政管理部文書法政課法政係</dc:creator>
+		<dc:subject>市政情報,例規・告示</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>行政管理部文書法政課法政係 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/shimin/shise/toke/nenrebetsu/nenreh31.html">
+		<title>平成31年度住民基本台帳登録の年齢別人口(4月分から令和2年3月分まで)</title>
+		<link>https://www.city.tachikawa.lg.jp/shimin/shise/toke/nenrebetsu/nenreh31.html</link>
+		<description></description>
+		<dc:creator>市民生活部市民課管理係</dc:creator>
+		<dc:subject>市政情報,統計情報</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>市民生活部市民課管理係 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/shimin/shise/toke/chochobetsu/chochoh31.html">
+		<title>平成31年度住民基本台帳登録の町丁別人口(4月分から令和2年3月分まで)</title>
+		<link>https://www.city.tachikawa.lg.jp/shimin/shise/toke/chochobetsu/chochoh31.html</link>
+		<description></description>
+		<dc:creator>市民生活部市民課管理係</dc:creator>
+		<dc:subject>市政情報,統計情報</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>市民生活部市民課管理係 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/shimin/kurashi/jumintoroku/etsuranjokyo.html">
+		<title>住民基本台帳の一部の写しの閲覧状況の公表について</title>
+		<link>https://www.city.tachikawa.lg.jp/shimin/kurashi/jumintoroku/etsuranjokyo.html</link>
+		<description></description>
+		<dc:creator>市民生活部市民課管理係</dc:creator>
+		<dc:subject>くらし・環境,住民登録・戸籍</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>市民生活部市民課管理係 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/seikatsuanzen/kurashi/gomi/recycling/fuyohin.html">
+		<title>不用品交換情報</title>
+		<link>https://www.city.tachikawa.lg.jp/seikatsuanzen/kurashi/gomi/recycling/fuyohin.html</link>
+		<description></description>
+		<dc:creator>市民生活部生活安全課消費生活センター係</dc:creator>
+		<dc:subject>くらし・環境,ごみ・リサイクル</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>市民生活部生活安全課消費生活センター係 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/chiikibunka/kanko/bunka/bunka/art/kansho.html">
+		<title>ファーレ立川アート鑑賞教室</title>
+		<link>https://www.city.tachikawa.lg.jp/chiikibunka/kanko/bunka/bunka/art/kansho.html</link>
+		<description></description>
+		<dc:creator>産業文化スポーツ部地域文化課文化振興係</dc:creator>
+		<dc:subject>観光・文化・スポーツ,文化</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>産業文化スポーツ部地域文化課　 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/chiikibunka/faret/artmap.html">
+		<title>ファーレ立川アートマップ</title>
+		<link>https://www.city.tachikawa.lg.jp/chiikibunka/faret/artmap.html</link>
+		<description>ファーレ立川アートマップをリニューアルしました。アートマップの設置場所一覧をお知らせします。</description>
+		<dc:creator>産業文化スポーツ部地域文化課文化振興係</dc:creator>
+		<dc:subject>観光・文化・スポーツ,文化</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>産業文化スポーツ部地域文化課文化振興係 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/hoiku/shise/saiyo/boshu/syokutakuhoikushibosyuu.html">
+		<title>保育士（嘱託職員）の募集について</title>
+		<link>https://www.city.tachikawa.lg.jp/hoiku/shise/saiyo/boshu/syokutakuhoikushibosyuu.html</link>
+		<description></description>
+		<dc:creator>子ども家庭部保育課保育・幼稚園支援係</dc:creator>
+		<dc:subject>市政情報,職員採用</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>子ども家庭部保育課保育・幼稚園支援係 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/hoiku/shisetsu/hoikuen/kigyousyudou.html">
+		<title>企業主導型保育施設</title>
+		<link>https://www.city.tachikawa.lg.jp/hoiku/shisetsu/hoikuen/kigyousyudou.html</link>
+		<description></description>
+		<dc:creator>子ども家庭部保育課保育入園係</dc:creator>
+		<dc:subject>子育て・教育,子育て</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>子ども家庭部保育課保育入園係 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/kenkosuishin/kenko/iryo/kenkoshinsa/gan/daichogan.html">
+		<title>大腸がん検診のお知らせ</title>
+		<link>https://www.city.tachikawa.lg.jp/kenkosuishin/kenko/iryo/kenkoshinsa/gan/daichogan.html</link>
+		<description></description>
+		<dc:creator>福祉保健部健康推進課（健康づくり担当）予防健診係</dc:creator>
+		<dc:subject>健康・福祉,健康・医療</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>福祉保健部健康推進課（健康づくり担当）予防健診係 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/hokennenkin/kurashi/hoken/kokubo/sedo/hokenryo.html">
+		<title>国民健康保険料</title>
+		<link>https://www.city.tachikawa.lg.jp/hokennenkin/kurashi/hoken/kokubo/sedo/hokenryo.html</link>
+		<description></description>
+		<dc:creator>福祉保健部保険年金課賦課係</dc:creator>
+		<dc:subject>くらし・環境,保険・年金</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>福祉保健部保険年金課　 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/kyoikusomu/kosodate/kyoiku/iinkai/iinkai/kaisaijokyo/r1_10.html">
+		<title>第10回立川市教育委員会定例会</title>
+		<link>https://www.city.tachikawa.lg.jp/kyoikusomu/kosodate/kyoiku/iinkai/iinkai/kaisaijokyo/r1_10.html</link>
+		<description></description>
+		<dc:creator>教育委員会事務局　教育部教育総務課庶務係</dc:creator>
+		<dc:subject>子育て・教育,教育,教育委員会</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>教育委員会事務局　教育部教育総務課庶務係 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/gakkokyushoku/kosodate/kyoiku/iinkai/gakko/kyushoku/jimotoyasai.html">
+		<title>学校給食における地元野菜の使用状況</title>
+		<link>https://www.city.tachikawa.lg.jp/gakkokyushoku/kosodate/kyoiku/iinkai/gakko/kyushoku/jimotoyasai.html</link>
+		<description></description>
+		<dc:creator>教育委員会事務局　教育部学校給食課管理係</dc:creator>
+		<dc:subject>子育て・教育,教育,教育委員会</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>教育委員会事務局　教育部学校給食課　 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/gakkokyushoku/kosodate/kyoiku/iinkai/gakko/kyushoku/chu.html">
+		<title>中学校給食の献立について</title>
+		<link>https://www.city.tachikawa.lg.jp/gakkokyushoku/kosodate/kyoiku/iinkai/gakko/kyushoku/chu.html</link>
+		<description></description>
+		<dc:creator>教育委員会事務局　教育部学校給食課給食係</dc:creator>
+		<dc:subject>子育て・教育,教育,教育委員会</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>教育委員会事務局　教育部学校給食課　 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/shogaigakushu/kosodate/kyoiku/iinkai/iinkai/shingikai/gakushukan/saiwai/saiwai-h31gijiroku.html">
+		<title>平成31年度幸学習館運営協議会会議録概要</title>
+		<link>https://www.city.tachikawa.lg.jp/shogaigakushu/kosodate/kyoiku/iinkai/iinkai/shingikai/gakushukan/saiwai/saiwai-h31gijiroku.html</link>
+		<description>平成31年度幸学習館運営協議会会議録概要</description>
+		<dc:creator>教育委員会事務局　教育部生涯学習推進センター幸学習館</dc:creator>
+		<dc:subject>子育て・教育,教育,教育委員会</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>教育委員会事務局　教育部生涯学習推進センター幸学習館 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/gikaijimukyoku/shise/shigikai/katsudo/teireikaishingikai/h31/r1-2tere/nittei.html">
+		<title>令和元年（2019年）第2回定例会日程表</title>
+		<link>https://www.city.tachikawa.lg.jp/gikaijimukyoku/shise/shigikai/katsudo/teireikaishingikai/h31/r1-2tere/nittei.html</link>
+		<description></description>
+		<dc:creator>議会事務局　庶務調査係</dc:creator>
+		<dc:subject>市政情報,立川市議会</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>議会事務局　　 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/senkyokanri/shise/senkyo/sedo/r1sangiin/risanngiinnfuzai.html">
+		<title>市外で不在者投票をされる方へ</title>
+		<link>https://www.city.tachikawa.lg.jp/senkyokanri/shise/senkyo/sedo/r1sangiin/risanngiinnfuzai.html</link>
+		<description></description>
+		<dc:creator>選挙管理委員会事務局　　</dc:creator>
+		<dc:subject>市政情報,選挙</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>選挙管理委員会事務局　　 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/senkyokanri/shise/senkyo/sedo/fizaishisetu.html">
+		<title>指定施設での不在者投票</title>
+		<link>https://www.city.tachikawa.lg.jp/senkyokanri/shise/senkyo/sedo/fizaishisetu.html</link>
+		<description></description>
+		<dc:creator>選挙管理委員会事務局　　</dc:creator>
+		<dc:subject>市政情報,選挙</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>選挙管理委員会事務局　　 </dc:contributor>
+		<dc:date>2019-06-06T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/kikakuseisaku/shise/kichikanren/yokota/yokotajoho/20190206cv22osprey_numberoftimes.html">
+		<title>横田飛行場におけるCV-22オスプレイの離着陸回数について(平成31年2月6日から掲載)</title>
+		<link>https://www.city.tachikawa.lg.jp/kikakuseisaku/shise/kichikanren/yokota/yokotajoho/20190206cv22osprey_numberoftimes.html</link>
+		<description></description>
+		<dc:creator>総合政策部企画政策課主査（基地対策・政策調整等担任）</dc:creator>
+		<dc:subject>市政情報,基地関連</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>総合政策部企画政策課主査（基地対策・政策調整等担任） </dc:contributor>
+		<dc:date>2019-06-05T17:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/kikakuseisaku/shise/sesaku/kururinshohinken/gaiyou.html">
+		<title>プレミアム付商品券（くるりん商品券）を発行します</title>
+		<link>https://www.city.tachikawa.lg.jp/kikakuseisaku/shise/sesaku/kururinshohinken/gaiyou.html</link>
+		<description></description>
+		<dc:creator>総合政策部企画政策課企画調整係</dc:creator>
+		<dc:subject>市政情報,政策・計画</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>福祉保健部福祉総務課調整係 </dc:contributor>
+		<dc:date>2019-06-05T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/sangyoshinko/5656565.html">
+		<title>プレミアム付商品券（くるりん商品券）取扱店舗一覧</title>
+		<link>https://www.city.tachikawa.lg.jp/sangyoshinko/5656565.html</link>
+		<description></description>
+		<dc:creator>産業文化スポーツ部産業観光課商工振興係</dc:creator>
+		<dc:subject>市政情報,政策・計画</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>産業文化スポーツ部産業観光課商工振興係 </dc:contributor>
+		<dc:date>2019-06-05T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/supotsushinko/kosodate/kyoiku/iinkai/supo-tsu/shisetsu/shibasaki-taikukan.html">
+		<title>柴崎市民体育館</title>
+		<link>https://www.city.tachikawa.lg.jp/supotsushinko/kosodate/kyoiku/iinkai/supo-tsu/shisetsu/shibasaki-taikukan.html</link>
+		<description></description>
+		<dc:creator>産業文化スポーツ部スポーツ振興課管理係</dc:creator>
+		<dc:subject>子育て・教育,教育,教育委員会</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>産業文化スポーツ部スポーツ振興課　 </dc:contributor>
+		<dc:date>2019-06-05T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/kodomokatei/kosodate/kosodate/shien/family/nyukai.html">
+		<title>ファミリー・サポート・センター入会のご案内</title>
+		<link>https://www.city.tachikawa.lg.jp/kodomokatei/kosodate/kosodate/shien/family/nyukai.html</link>
+		<description></description>
+		<dc:creator>子ども家庭部子ども家庭支援センター子ども家庭支援センター係</dc:creator>
+		<dc:subject>子育て・教育,子育て</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>子ども家庭部子ども家庭支援センター　 </dc:contributor>
+		<dc:date>2019-06-05T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/kodomokatei/kosodate/kosodate/shien/family/enjyokaiinbosyu.html">
+		<title>ファミサポ援助会員募集</title>
+		<link>https://www.city.tachikawa.lg.jp/kodomokatei/kosodate/kosodate/shien/family/enjyokaiinbosyu.html</link>
+		<description></description>
+		<dc:creator>子ども家庭部子ども家庭支援センター子ども家庭支援センター係</dc:creator>
+		<dc:subject>子育て・教育,子育て</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>子ども家庭部子ども家庭支援センター子ども家庭支援センター係 </dc:contributor>
+		<dc:date>2019-06-05T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/hoiku/shise/saiyo/boshu/boshu.html">
+		<title>保育園の臨時職員の募集について</title>
+		<link>https://www.city.tachikawa.lg.jp/hoiku/shise/saiyo/boshu/boshu.html</link>
+		<description></description>
+		<dc:creator>子ども家庭部保育課保育・幼稚園支援係</dc:creator>
+		<dc:subject>市政情報,職員採用</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>子ども家庭部保育課　 </dc:contributor>
+		<dc:date>2019-06-05T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/fukushisomu/kurashi/bochi/kasoba.html">
+		<title>火葬場のことは</title>
+		<link>https://www.city.tachikawa.lg.jp/fukushisomu/kurashi/bochi/kasoba.html</link>
+		<description></description>
+		<dc:creator>福祉保健部福祉総務課調整係</dc:creator>
+		<dc:subject>くらし・環境,墓地・斎場</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>福祉保健部福祉総務課　 </dc:contributor>
+		<dc:date>2019-06-05T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/fukushisomu/kenko/fukushi/shisetsu/sodan.html">
+		<title>福祉サービスに関するご相談や苦情についての窓口を設置しています</title>
+		<link>https://www.city.tachikawa.lg.jp/fukushisomu/kenko/fukushi/shisetsu/sodan.html</link>
+		<description></description>
+		<dc:creator>福祉保健部福祉総務課調整係</dc:creator>
+		<dc:subject>健康・福祉,福祉</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>福祉保健部福祉総務課　 </dc:contributor>
+		<dc:date>2019-06-05T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/ninchisho/ninnsapo.html">
+		<title>認知症サポーター養成講座</title>
+		<link>https://www.city.tachikawa.lg.jp/koreifukushi/kenko/fukushi/koresha/ninchisho/ninnsapo.html</link>
+		<description>認知症の高齢者を地域で温かく見守るサポーター養成講座</description>
+		<dc:creator>福祉保健部高齢福祉課介護予防推進係</dc:creator>
+		<dc:subject>健康・福祉,福祉</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>福祉保健部高齢福祉課介護予防推進係 </dc:contributor>
+		<dc:date>2019-06-05T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/toshikeikaku/seisanryokuchi/tokutei_shiteisetumeikai.html">
+		<title>特定生産緑地指定手続き説明会を開催しました</title>
+		<link>https://www.city.tachikawa.lg.jp/toshikeikaku/seisanryokuchi/tokutei_shiteisetumeikai.html</link>
+		<description></description>
+		<dc:creator>まちづくり部都市計画課都市計画係</dc:creator>
+		<dc:subject>市政情報,都市づくり</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>まちづくり部都市計画課都市計画係 </dc:contributor>
+		<dc:date>2019-06-05T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/toshikeikaku/seisanryokuchi/tokuteiseiryoku_shitei_tetsuduki.html">
+		<title>特定生産緑地指定手続きについて</title>
+		<link>https://www.city.tachikawa.lg.jp/toshikeikaku/seisanryokuchi/tokuteiseiryoku_shitei_tetsuduki.html</link>
+		<description></description>
+		<dc:creator>まちづくり部都市計画課都市計画係</dc:creator>
+		<dc:subject>市政情報,都市づくり</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>まちづくり部都市計画課都市計画係 </dc:contributor>
+		<dc:date>2019-06-05T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/kenchikushido/shise/toshizukuri/kenchiku/kenchiku/tesuryo.html">
+		<title>建築確認申請等の手数料額</title>
+		<link>https://www.city.tachikawa.lg.jp/kenchikushido/shise/toshizukuri/kenchiku/kenchiku/tesuryo.html</link>
+		<description></description>
+		<dc:creator>まちづくり部建築指導課庶務係</dc:creator>
+		<dc:subject>市政情報,都市づくり</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>まちづくり部建築指導課　 </dc:contributor>
+		<dc:date>2019-06-05T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/gakkokyushoku/kosodate/kyoiku/iinkai/gakko/kyushoku/sanchikohyo.html">
+		<title>保育園給食・小中学校給食の放射性物質検査・産地公表について</title>
+		<link>https://www.city.tachikawa.lg.jp/gakkokyushoku/kosodate/kyoiku/iinkai/gakko/kyushoku/sanchikohyo.html</link>
+		<description></description>
+		<dc:creator>教育委員会事務局　教育部学校給食課管理係</dc:creator>
+		<dc:subject>子育て・教育,教育,教育委員会</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>教育委員会事務局　教育部学校給食課　 </dc:contributor>
+		<dc:date>2019-06-05T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/gikaijimukyoku/shise/shigikai/katsudo/teireikaishingikai/h31/r1-2tere/gian.html">
+		<title>令和元年（2019年）第2回定例会議案一覧</title>
+		<link>https://www.city.tachikawa.lg.jp/gikaijimukyoku/shise/shigikai/katsudo/teireikaishingikai/h31/r1-2tere/gian.html</link>
+		<description></description>
+		<dc:creator>議会事務局　庶務調査係</dc:creator>
+		<dc:subject>市政情報,立川市議会</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>議会事務局　　 </dc:contributor>
+		<dc:date>2019-06-05T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/keiyaku/sangyo/nyusatsu/anken/h261107.html">
+		<title>条件付き一般競争入札等案件公表</title>
+		<link>https://www.city.tachikawa.lg.jp/keiyaku/sangyo/nyusatsu/anken/h261107.html</link>
+		<description></description>
+		<dc:creator>財務部契約課工事契約係</dc:creator>
+		<dc:subject>産業・ビジネス,入札・契約</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>財務部契約課　 </dc:contributor>
+		<dc:date>2019-06-04T12:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/gyoseikeiei/shise/pfi/sedo/sente/h31-toshin.html">
+		<title>平成31年度立川市公の施設指定管理者候補者選定審査会答申</title>
+		<link>https://www.city.tachikawa.lg.jp/gyoseikeiei/shise/pfi/sedo/sente/h31-toshin.html</link>
+		<description></description>
+		<dc:creator>総合政策部行政経営課主査（経営改革担任）2</dc:creator>
+		<dc:subject>産業・ビジネス,官民連携</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>総合政策部行政経営課　 </dc:contributor>
+		<dc:date>2019-06-04T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/jinji/shise/saiyo/shikenannai/h29saiyou/20190425shikeninfo0107.html">
+		<title>職員採用試験について（令和元年7月以降採用）</title>
+		<link>https://www.city.tachikawa.lg.jp/jinji/shise/saiyo/shikenannai/h29saiyou/20190425shikeninfo0107.html</link>
+		<description></description>
+		<dc:creator>行政管理部人事課人事係</dc:creator>
+		<dc:subject>市政情報,職員採用</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>行政管理部人事課人事係 </dc:contributor>
+		<dc:date>2019-06-04T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/jinji/shise/saiyo/shikenannai/h31saiyou/20190510saiyoushiken.html">
+		<title>職員採用試験について（令和2年度採用）</title>
+		<link>https://www.city.tachikawa.lg.jp/jinji/shise/saiyo/shikenannai/h31saiyou/20190510saiyoushiken.html</link>
+		<description></description>
+		<dc:creator>行政管理部人事課人事係</dc:creator>
+		<dc:subject>市政情報,職員採用</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>行政管理部人事課人事係 </dc:contributor>
+		<dc:date>2019-06-04T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/keiyaku/sangyo/nyusatsu/keikekka/h31/r010529.html">
+		<title>平成31年度条件付き一般競争入札経緯結果（5月29日）</title>
+		<link>https://www.city.tachikawa.lg.jp/keiyaku/sangyo/nyusatsu/keikekka/h31/r010529.html</link>
+		<description></description>
+		<dc:creator>財務部契約課工事契約係</dc:creator>
+		<dc:subject>産業・ビジネス,入札・契約</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>財務部契約課　 </dc:contributor>
+		<dc:date>2019-06-04T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/bosai/bosai/bosaikunren/kakushutikibousai.html">
+		<title>各種防災訓練について</title>
+		<link>https://www.city.tachikawa.lg.jp/bosai/bosai/bosaikunren/kakushutikibousai.html</link>
+		<description></description>
+		<dc:creator>市民生活部防災課防災係</dc:creator>
+		<dc:subject>防災・防犯,防災</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>市民生活部防災課防災係 </dc:contributor>
+		<dc:date>2019-06-04T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/kyodosuishin/kurashi/shimin/jichikai/handbook.html">
+		<title>「立川市自治会ハンドブック」をご活用ください</title>
+		<link>https://www.city.tachikawa.lg.jp/kyodosuishin/kurashi/shimin/jichikai/handbook.html</link>
+		<description>自治会マニュアル,自治会ハンドブック,自治会の手引き</description>
+		<dc:creator>産業文化スポーツ部協働推進課協働推進係</dc:creator>
+		<dc:subject>くらし・環境,市民活動</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>産業文化スポーツ部協働推進課　 </dc:contributor>
+		<dc:date>2019-06-04T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/kyodosuishin/kurashi/shimin/shien/kyodonomatidukuri/30jigyohoukoku.html">
+		<title>平成30年度協働のまちづくり推進事業補助金交付事業の取り組み</title>
+		<link>https://www.city.tachikawa.lg.jp/kyodosuishin/kurashi/shimin/shien/kyodonomatidukuri/30jigyohoukoku.html</link>
+		<description></description>
+		<dc:creator>産業文化スポーツ部協働推進課協働推進係</dc:creator>
+		<dc:subject>くらし・環境,市民活動</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>産業文化スポーツ部協働推進課　 </dc:contributor>
+		<dc:date>2019-06-04T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/hoiku/kosodate/kosodate/hoikuen/h27annai.html">
+		<title>平成31年度　保育園の育児休業明け入園予約のご案内</title>
+		<link>https://www.city.tachikawa.lg.jp/hoiku/kosodate/kosodate/hoikuen/h27annai.html</link>
+		<description></description>
+		<dc:creator>子ども家庭部保育課保育入園係</dc:creator>
+		<dc:subject>子育て・教育,子育て</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>子ども家庭部保育課保育入園係 </dc:contributor>
+		<dc:date>2019-05-04T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://www.city.tachikawa.lg.jp/hoiku/kosodate/kosodate/hoikuen/ninka/nyuen/boshujokyo.html">
+		<title>保育施設募集人数一覧</title>
+		<link>https://www.city.tachikawa.lg.jp/hoiku/kosodate/kosodate/hoikuen/ninka/nyuen/boshujokyo.html</link>
+		<description></description>
+		<dc:creator>子ども家庭部保育課保育入園係</dc:creator>
+		<dc:subject>子育て・教育,子育て</dc:subject>
+		<dc:publisher>立川市</dc:publisher>
+		<dc:contributor>子ども家庭部保育課　 </dc:contributor>
+		<dc:date>2019-05-04T00:00:00+09:00</dc:date>
+	</item>
+</rdf:RDF>

@@ -1,0 +1,79 @@
+@charset "utf-8";
+
+@media screen and (min-width : 481px) and (max-width : 768px) {
+
+/* ==================================================
+shared
+================================================== */
+/* body
+============================== */
+body {
+	-webkit-text-size-adjust:none; /* 変更しない */
+}
+input[type="submit"],
+input[type="button"],
+input[type="text"],
+input[type="password"] {
+	-webkit-appearance:none; /* 変更しない */
+	-webkit-border-radius:0; /* Webkit */
+	-moz-border-radius:0; /* Mozilla */
+	border-radius:0; /* CSS3 */
+}
+/* wrapper
+============================== */
+#tmp_wrapper {
+	width:768px;
+	min-width:481px;
+}
+#tmp_wrapper .no_tablet {
+	display:none;
+}
+#tmp_resize_width {
+	width:481px;
+}
+/* ==================================================
+header
+================================================== */
+#tmp_func_txt {
+	display:none;
+}
+/* ==================================================
+footer
+================================================== */
+#tmp_footer {
+	padding:0 10px;
+}
+/* ==================================================
+free
+================================================== */
+/* cate_ttl
+============================== */
+#tmp_cate_ttl img {
+    max-width:100%;
+    height:auto;
+}
+/* contents
+============================== */
+#tmp_contents img {
+	max-width:100%;
+	height:auto;
+}
+#tmp_contents table {
+	width:auto;
+}
+#tmp_contents table table {
+	max-width:100%;
+}
+#tmp_contents table th,
+#tmp_contents table td {
+	width:auto;
+}
+#tmp_contents input[type="text"],
+#tmp_contents textarea {
+	width:100%;
+	padding:0;
+	box-sizing:border-box;/* CSS3 */
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+}
+}

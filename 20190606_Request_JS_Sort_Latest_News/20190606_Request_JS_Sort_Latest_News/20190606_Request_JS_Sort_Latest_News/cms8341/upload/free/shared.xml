@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Styles>
+	<Style name="下線" element="span">
+		<Attribute name="class" value="underline" />
+	</Style>
+	<Style name="打ち消し線" element="span">
+		<Attribute name="class" value="strike" />
+	</Style>
+	<Style name="文字色-赤" element="span">
+		<Attribute name="class" value="txt_red" />
+	</Style>
+	<Style name="文字色-緑" element="span">
+		<Attribute name="class" value="txt_green" />
+	</Style>
+	<Style name="行中左スペース-1字" element="span">
+		<Attribute name="class" value="space_lft1" />
+	</Style>
+	<Style name="文字サイズ-大" element="span">
+		<Attribute name="class" value="txt_big" />
+	</Style>
+	<Style name="文字サイズ-小" element="span">
+		<Attribute name="class" value="txt_small" />
+	</Style>
+	<Style name="画像回り込み-右" element="img">
+		<Attribute name="class" value="float_rgt" />
+	</Style>
+	<Style name="画像回り込み-左" element="img">
+		<Attribute name="class" value="float_lft" />
+	</Style>
+	<Style name="画像回り込み-解除" element="p">
+		<Attribute name="class" value="clear" />
+	</Style>
+	<Style name="データテーブル" element="table">
+		<Attribute name="class" value="datatable" />
+	</Style>
+	<Style name="アイコンなし" element="ul">
+		<Attribute name="class" value="noicon" />
+	</Style>
+</Styles>

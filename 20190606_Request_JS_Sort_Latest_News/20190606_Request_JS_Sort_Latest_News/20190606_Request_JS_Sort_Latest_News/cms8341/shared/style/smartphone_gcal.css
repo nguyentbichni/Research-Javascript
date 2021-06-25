@@ -1,0 +1,9 @@
+@charset "utf-8";
+@media screen and (max-width: 640px) {
+td#timezone,
+td#td-print-text-id,
+td#td-print-image-id,
+td.ui-rtsr:first-child {
+    display: none;
+}
+}

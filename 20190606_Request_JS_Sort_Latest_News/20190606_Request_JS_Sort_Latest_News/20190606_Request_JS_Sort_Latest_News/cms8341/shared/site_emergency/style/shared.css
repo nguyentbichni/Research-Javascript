@@ -1,0 +1,519 @@
+@charset "utf-8";
+
+/* ==================================================
+layout
+================================================== */
+/* body
+============================== */
+body {
+	font-size:100%; /* デザインによって変更 */
+}
+input[type="submit"],
+input[type="button"],
+input[type="text"],
+input[type="password"] {
+	-webkit-appearance:none; /* 変更しない */
+	-webkit-border-radius:0; /* Webkit */
+	-moz-border-radius:0; /* Mozilla */
+	border-radius:0; /* CSS3 */
+}
+/* wrapper
+============================== */
+#tmp_wrapper {
+	width:920px; /* デザインによって変更 */
+	margin:0 auto;
+	color:inherit;
+	background-color:#FFFFFF;
+}
+/* main
+============================== */
+#tmp_main {
+	margin:0 0 15px;
+	padding:0;
+	clear:both; /* 変更しない */
+}
+/* contents
+============================== */
+#tmp_contents {
+	width:100%;
+	clear:both;
+	padding:0 0 10px;
+}
+/* ==================================================
+header
+================================================== */
+#tmp_header {
+	padding:10px 0 15px;
+}
+#tmp_hlogo {
+	float:left;
+}
+#tmp_hlogo h1,
+#tmp_hlogo p {
+	width:202px;
+	height:67px;
+	background:url(/cms8341/shared/images/h_logo_free.png) no-repeat left top;
+}
+#tmp_hlogo a {
+	display:block;
+	width:202px;
+	height:67px;
+}
+#tmp_hlogo h1 span,
+#tmp_hlogo p span {
+	display:block;
+	width:202px;
+	height:67px;
+	position:relative;
+	z-index:-1;
+	overflow:hidden;
+}
+#tmp_means {
+	width:500px;
+	float:right;
+	padding:10px 0 0 0;
+}
+#tmp_means ul {
+	list-style:none;
+	margin:0;
+	padding:0;
+	font-size:87.5%;
+}
+#tmp_means ul li {
+	float:left;
+	margin-right:22px;
+}
+#tmp_means ul li:last-child {
+	margin-right:0;
+}
+/* primary
+============================== */
+#tmp_means_primary {
+	text-align:right;
+	font-weight:bold;
+	margin-bottom:15px;
+}
+/* ==================================================
+navi
+================================================== */
+/* pnavi
+============================== */
+.pnavi {
+	clear:both;
+}
+.pnavi .ptop {
+	margin-bottom:0 !important;
+}
+.ptop {
+	text-align:right;
+	clear:both;
+}
+/* ==================================================
+main
+================================================== */
+#tmp_main {
+	clear:both; /* 変更しない */
+}
+/* plugin ▼変更しない
+============================== */
+.plugin {
+	margin:0 0 20px;
+	padding:10px;
+	border:1px solid #CCCCCC;
+	clear:both;
+}
+.plugin .plugin_img {
+	margin:0 10px 0 0 !important;
+	float:left;
+}
+.plugin .plugin_img img {
+	vertical-align:top;
+}
+.plugin p {
+	margin:0 !important;
+}
+/* ==================================================
+footer
+================================================== */
+#tmp_footer {
+	clear:both;
+}
+#tmp_footer address {
+	font-style:normal;
+	margin-bottom:5px;
+}
+#tmp_footer address span {
+	margin:0 1em 0 0;
+	display: block;
+	margin-bottom: 5px;
+}
+p.office_title {
+	margin-bottom: 5px;
+}
+#tmp_footer address span.br {
+	display:block; /* スマホでinline値にする場合 */
+	font-size:87.5%;
+	margin-bottom: 0;
+}
+#tmp_footer address span.spbr {
+	display:inline; /* スマホでblock値にする場合 */
+}
+#tmp_copyright {
+	font-size:75%;
+}
+/* ==================================================
+class
+================================================== */
+/* text
+============================== */
+.underline {
+	text-decoration:underline; /* 変更しない */
+}
+.strike {
+	text-decoration:line-through; /* 変更しない */
+}
+/* ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼ */
+/* 構築シートによって種類増減 */
+.txt_red {
+	color:#990000; /* デザインによって変更 */
+	background-color:transparent; /* 変更しない */
+}
+.txt_green {
+	color:#007500; /* デザインによって変更 */
+	background:transparent; /* 変更しない */
+}
+/* ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲ */
+.txt_big {
+	font-size:125%; /* 20px相当 */
+}
+.txt_small {
+	font-size:75%; /* 12px相当 */
+}
+.space_lft1 {
+	padding-left:1em; /* 変更しない */
+}
+/* image ▼変更しない
+============================== */
+.float_lft {
+	margin-right:20px !important;
+	margin-bottom:10px !important;
+	clear:both;
+	float:left;
+}
+.float_rgt {
+	margin-bottom:10px !important;
+	margin-left:20px !important;
+	clear:both;
+	float:right;
+}
+.clear {
+	clear:both;
+}
+/* noicon ▼変更しない
+============================== */
+ul.noicon {
+	margin-left:3.2em !important;
+	text-indent:-1.5em !important;
+	list-style:none !important;
+	list-style-image:none !important;
+}
+ul.noicon ul,
+ul.noicon ol,
+ul.noicon p,
+ul.noicon h1,
+ul.noicon h2,
+ul.noicon h3,
+ul.noicon h4,
+ul.noicon h5,
+ul.noicon h6,
+ul.noicon table,
+ul.noicon div {
+	text-indent:0 !important;
+}
+ul ul.noicon,
+ol ul.noicon {
+	margin-left:1.5em !important;
+	text-indent:-1.5em !important;
+}
+/* ==================================================
+parts
+================================================== */
+/* col2 ▼変更しない
+============================== */
+table.col2 {
+	width:99%;
+	border-collapse:collapse;
+	border-spacing:0;
+}
+table.col2 td.col2L,
+table.col2 td.col2R {
+	padding:0;
+	vertical-align:top;
+	text-align:left;
+}
+table.col2 td.col2L {
+	width:50%;
+	border-right-width:15px;
+}
+#tmp_main table.col2 td.col2L {
+	border-right:15px solid #FFFFFF;
+}
+table.col2 td.col2R {
+	width:50%;
+}
+div.col2 {
+	width:100%;
+}
+div.col2 div.col2L {
+	display:table;
+	width:49%;
+	margin-right:2%;
+	float:left;
+}
+div.col2 div.col2R {
+	display:table;
+	width:49%;
+	float:left;
+}
+/* nestcol2 ▼変更しない
+============================== */
+table.col2 table.col2 td.col2L {
+	padding:0;
+}
+div.col2 div.col2 div.col2L {
+	width:47.5%;
+	margin-right:4%;
+}
+div.col2 div.col2 div.col2R {
+	width:47.5%;
+}
+/* fixed_col2 ▼変更しない
+   編集領域には使わない（イベントカレンダー・定型等に使う）
+============================== */
+div.fixed_col2 {
+	width:100%;
+}
+div.fixed_col2 div.fixed_col2L {
+	display:table;
+	width:48.5%;
+	margin-right:2%;
+	float:left;
+}
+div.fixed_col2 div.fixed_col2R {
+	display:table;
+	width:48.5%;
+	float:right;
+}
+/* col3 ▼変更しない
+============================== */
+table.col3 {
+	width:99%;
+	border-collapse:collapse;
+	border-spacing:0;
+}
+table.col3 td.col3L,
+table.col3 td.col3M,
+table.col3 td.col3R {
+	padding:0;
+	vertical-align:top;
+	text-align:left;
+}
+table.col3 td.col3L,
+table.col3 td.col3M {
+	width:33.33%;
+	border-right-width:15px;
+}
+#tmp_main table.col3 td.col3L,
+#tmp_main table.col3 td.col3M {
+	border-right:15px solid #FFFFFF;
+}
+table.col3 td.col3R {
+	width:33.33%;
+}
+div.col3 {
+	width:100%;
+}
+div.col3 div.col3L,
+div.col3 div.col3M {
+	display:table;
+	width:31.7%;
+	margin-right:2%;
+	float:left;
+}
+div.col3 div.col3R {
+	display:table;
+	width:31.7%;
+	float:left;
+}
+/* img_cap ▼変更しない
+============================== */
+table.img_cap {
+	margin:0 0 0.3em;
+	border-collapse:collapse;
+	border-spacing:0;
+}
+table.img_cap td {
+	padding:0;
+}
+div.img_cap {
+	margin:0 0 0.3em;
+}
+div.img_cap img {
+	margin:0 !important;
+}
+/* layouttable ▼変更しない
+============================== */
+table.layouttable {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+table.layouttable td {
+	padding:0 15px 0 0;
+	vertical-align:top;
+	text-align:left;
+}
+/* ==================================================
+XHTML 1.0 Strict
+================================================== */
+/* text ▼変更しない
+============================== */
+.left {
+	text-align:left;
+}
+.right {
+	text-align:right;
+}
+.center {
+	text-align:center;
+}
+table.center,
+div.center table {
+	margin-right:auto !important;
+	margin-left:auto !important;
+}
+/* image ▼変更しない
+============================== */
+img.left {
+	float:left;
+}
+img.right {
+	float:right;
+}
+img.center {
+	vertical-align:middle;
+}
+img.top {
+	vertical-align:text-top;
+}
+img.bottom {
+	vertical-align:text-bottom;
+}
+/* table div ▼変更しない
+============================== */
+table.left {
+	float:left;
+}
+table.right {
+	float:right;
+}
+table.center,
+div.center table {
+	margin-right:auto !important;
+	margin-left:auto !important;
+}
+th.nowrap,
+td.nowrap {
+	white-space:nowrap;
+}
+/* ==================================================
+system
+================================================== */
+/* indent ▼変更しない
+============================== */
+div.section,
+blockquote {
+	padding:0 0 0 1em;
+}
+/* linkicon
+============================== */
+#tmp_main a.icon_pdf,
+#tmp_main a.icon_word,
+#tmp_main a.icon_excel {
+	display:inline-block;
+}
+a.icon_pdf,
+a.icon_word,
+a.icon_excel {
+	margin:0 3px;
+	padding-left:36px;
+	text-indent:0 !important;
+}
+li a.icon_pdf,
+li a.icon_word,
+li a.icon_excel {
+	background-position:0 0.2em;
+}
+a.icon_pdf {
+	background:url(/cms8341/shared/system/images/linkicon/icon_pdf.gif) no-repeat 0 0.4em;
+}
+a.icon_word {
+	background:url(/cms8341/shared/system/images/linkicon/icon_word.gif) no-repeat 0 0.4em;
+}
+a.icon_excel {
+	background:url(/cms8341/shared/system/images/linkicon/icon_excel.gif) no-repeat 0 0.4em;
+}
+/* bgcolor
+============================== */
+/* ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼ */
+/* 構築シートによって種類増減 */
+td.bg_red,
+th.bg_red {
+	color:inherit;
+	background-color:#FCECEC; /* デザインによって変更 */
+}
+td.bg_yellow,
+th.bg_yellow {
+	color:inherit;
+	background-color:#FBFBDF; /* デザインによって変更 */
+}
+td.bg_blue,
+th.bg_blue {
+	color:inherit;
+	background-color:#EBF9FC; /* デザインによって変更 */
+}
+td.bg_gray,
+th.bg_gray {
+	color:inherit;
+	background-color:#E9E9E9; /* デザインによって変更 */
+}
+td.bg_green,
+th.bg_green {
+	color:inherit;
+	background-color:#EDFBEE; /* デザインによって変更 */
+}
+td.bg_purple,
+th.bg_purple {
+	color:inherit;
+	background-color:#EDE9FA; /* デザインによって変更 */
+}
+/* ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲ */
+/* ==================================================
+clearfix
+================================================== */
+/* for modern browser */
+#tmp_means ul:after,
+#tmp_contents:after,
+#tmp_header:after,
+#tmp_means:after,
+#tmp_main:after,
+.plugin:after,
+.pnavi:after,
+#tmp_footer:after,
+#tmp_footer_cnt:after,
+div.col2:after,
+div.fixed_col2:after,
+div.col3:after {
+	content: ""; /* 変更しない */
+	display: table; /* 変更しない */
+	clear: both; /* 変更しない */
+}

@@ -1,0 +1,102 @@
+@charset "utf-8";
+
+/* ==================================================
+reset
+================================================== */
+body {
+	margin:0; /* 変更しない */
+	padding:0; /* 変更しない */
+	font-size:100%; /* デザインによって変更 */
+	line-height:1.6; /* 変更しない */
+	color:#000000;
+	background-color:#FFFFFF;	
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol,
+li,
+dl,
+dt,
+dd,
+blockquote,
+form,
+input {
+	margin:0; /* 変更しない */
+	padding:0; /* 変更しない */
+}
+img {
+	border:none; /* 変更しない */
+}
+li,
+dt,
+dd {
+	line-height:1.4; /* 変更しない */
+}
+table {
+	font-size:100%; /* 変更しない */
+	line-height:1.6; /* 変更しない */
+}
+form,
+input,
+select {
+	font-size:100%; /* 変更しない */
+}
+a:link,
+a.skip {
+	color:#123FC2; /* デザインによって変更 */
+	background-color:transparent; /* 変更しない */
+}
+/* 基本フォントがメイリオ指定の場合は以下を使用 */
+/* 
+body,
+input,
+select,
+textarea {
+	font-family:'メイリオ',Meiryo,sans-serif;
+}
+body #tmp_contents p em {
+	font-family:"ＭＳ ゴシック", "MS Gothic", "Osaka－等幅", Osaka-mono, monospace;
+	font-size:105%;
+}
+ */
+/* ==================================================
+skip
+================================================== */
+.skip {
+	width:1px;
+	color:#000000;
+	font-size:0.1%;
+	line-height:0.1;
+	background-color:#FFFFFF;
+	position:absolute;
+	left:-3000px;
+	z-index:9999;
+}
+a.skip {
+	background-color:#FFFFFF; /* 変更しない */
+	text-align:center; /* 変更しない */
+	padding:2px 0; /* 変更しない */
+	top:auto; /* 変更しない */
+}
+a.skip:active {
+	display:block;
+	width:99.99%; /* 変更しない */
+	font-size:100%; /* 変更しない */
+	line-height:1.6; /* 変更しない */
+	top:0; /* 変更しない */
+	left:0; /* 変更しない */
+}
+a.skip:focus {
+	display:block;
+	width:99.99%; /* 変更しない */
+	font-size:100%; /* 変更しない */
+	line-height:1.6; /* 変更しない */
+	top:0; /* 変更しない */
+	left:0; /* 変更しない */
+}

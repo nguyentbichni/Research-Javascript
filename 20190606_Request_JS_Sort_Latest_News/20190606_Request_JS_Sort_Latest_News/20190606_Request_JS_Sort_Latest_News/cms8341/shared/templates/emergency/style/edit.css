@@ -1,0 +1,364 @@
+@charset "utf-8";
+
+/* ==================================================
+selector
+================================================== */
+#tmp_contents h1 {
+	clear:both; /* 変更しない */
+	margin:0 0 0.8em; /* 変更しない */
+	padding:10px 15px 6px;
+	font-size:150%; /* 変更しない */
+	color:#ffffff;
+	background-color:#c82023;
+}
+#tmp_contents h2 {
+	clear: both;
+	margin: 1.5em 0 0.8em;
+	padding: 0 10px;
+	font-size: 125%;
+	border-bottom: 2px solid #ff5b5b;
+}
+#tmp_contents h3 ,
+#tmp_contents h4 ,
+#tmp_contents h5 ,
+#tmp_contents h6 {
+	clear:both; /* 変更しない */
+	margin:1.5em 0 0.8em; /* 変更しない */
+	font-size:130%; /* 変更しない */
+}
+#tmp_contents p {
+	margin:0 0 0.8em 0; /* 変更しない */
+}
+#tmp_contents ul {
+	margin: 0 0 1.5em 2.2em; /* 変更しない */
+	list-style:disc;
+}
+#tmp_contents ol {
+	margin: 0 0 1.5em 2.2em; /* 変更しない */
+}
+#tmp_contents ul li,
+#tmp_contents ol li {
+	margin:0 0 0.5em; /* 変更しない */
+}
+#tmp_contents ul ul,
+#tmp_contents ul ol,
+#tmp_contents ol ul,
+#tmp_contents ol ol {
+	margin:0.3em 0 0 1.5em; /* 変更しない */
+}
+#tmp_contents hr {
+	height:1px; /* 変更しない */
+	color:#F16362; /* 変更しない */
+	background-color:#F16362; /* 変更しない */
+	border:none; /* 変更しない */
+	clear:both; /* 変更しない */
+}
+#tmp_contents img {
+	max-width:100%;
+	height:auto;
+}
+/* ==================================================
+parts
+================================================== */
+/* outline
+============================== */
+#tmp_contents .outline {
+	margin:0 0 0.8em; /* 変更しない */
+	border:1px solid #ff5c5c;
+	clear:both; /* 変更しない */	
+}
+#tmp_contents table.outline {
+	width:100%; /* 変更しない */
+	border-collapse:collapse; /* 変更しない */
+	border-spacing:0; /* 変更しない */
+}
+#tmp_contents table.outline td {
+	padding:20px 20px 30px;
+	color:inherit;
+	background-color:#FFFFFF;
+}
+#tmp_contents div.outline {
+	padding:20px 20px 30px;
+	color:inherit;
+	background-color:#FFFFFF;
+}
+#tmp_contents .outline ul {
+	margin-left: 15px; /* 変更しない */
+	margin-bottom: 20px;
+}
+#tmp_contents .outline ol {
+	margin-left: 15px; /* 変更しない */
+	margin-bottom: 20px;
+}
+#tmp_contents .outline ul ul,
+#tmp_contents .outline ul ol,
+#tmp_contents .outline ol ul,
+#tmp_contents .outline ol ol {
+	margin:0.3em 0 0 24px; /* 変更しない */
+}
+/* box_info
+============================== */
+#tmp_contents .box_info {
+	margin:0 0 2em; /* 変更しない */
+	border:1px solid #ff5c5c;
+	clear:both; /* 変更しない */
+}
+#tmp_contents table.box_info {
+	width:100%; /* 変更しない */
+	border-collapse:collapse; /* 変更しない */
+	border-spacing:0; /* 変更しない */
+}
+#tmp_contents .box_info .box_info_ttl {
+	padding:5px 15px 2px;
+	font-size:125%;
+	font-weight:bold;
+	color:#ffffff;
+	border-bottom:1px solid #ff5c5c;
+	background-color:#c82023;
+}
+#tmp_contents .box_info .box_info_ttl p {
+	margin-bottom:0; /* 変更しない */
+}
+#tmp_contents .box_info .box_info_cnt {
+	padding:15px 10px 0;
+}
+#tmp_contents .box_info ul {
+	margin-bottom:0.8em; /* 変更しない */
+	margin-left:24px; /* 変更しない */
+}
+#tmp_contents .box_info ol {
+	margin-bottom:0.8em; /* 変更しない */
+	margin-left:24px; /* 変更しない */
+}
+#tmp_contents .box_info ul ul,
+#tmp_contents .box_info ul ol,
+#tmp_contents .box_info ol ul,
+#tmp_contents .box_info ol ol {
+	margin:0.3em 0 0 24px; /* 変更しない */
+}
+/* box_link
+============================== */
+#tmp_contents .box_link {
+	margin:0 0 0.8em; /* 変更しない */
+	border:1px solid #CCCCCC;
+	clear:both; /* 変更しない */
+}
+#tmp_contents table.box_link {
+	width:100%; /* 変更しない */
+	border-collapse:collapse; /* 変更しない */
+	border-spacing:0; /* 変更しない */
+}
+#tmp_contents .box_link .box_link_ttl {
+	padding:3px 10px;
+	font-size:130%;
+	font-weight:bold;
+	color:inherit;
+	background-color:#FEE7E7;
+}
+#tmp_contents .box_link .box_link_ttl p {
+	margin-bottom:0; /* 変更しない */
+}
+#tmp_contents .box_link .box_link_cnt {
+	padding:10px 10px 0;
+}
+#tmp_contents .box_link ul {
+	margin-bottom:0.8em; /* 変更しない */
+	margin-left:24px; /* 変更しない */
+}
+#tmp_contents .box_link ol {
+	margin-bottom:0.8em; /* 変更しない */
+	margin-left:24px; /* 変更しない */
+}
+#tmp_contents .box_link ul ul,
+#tmp_contents .box_link ul ol,
+#tmp_contents .box_link ol ul,
+#tmp_contents .box_link ol ol {
+	margin:0.3em 0 0 24px; /* 変更しない */
+}
+/* box_emergency
+============================== */
+#tmp_contents .box_emergency .box_emergency_cnt {
+	padding:0 15px;
+}
+.box_emergency:last-child {
+	border-bottom:1px solid #ff5b5b;
+}
+/* datatable
+============================== */
+#tmp_contents table.datatable {
+	margin:0 0 0.8em; /* 変更しない */
+	color:inherit;
+	background-color:#FFFFFF;
+	border-collapse:collapse; /* 変更しない */
+	border-spacing:0; /* 変更しない */
+	border:1px solid #CCCCCC;
+}
+#tmp_contents table.datatable th {
+	padding:5px 8px;
+	color:inherit;
+	background-color:#FEE7E7;
+	border:1px solid #CCCCCC;
+}
+#tmp_contents table.datatable td {
+	padding:5px 8px;
+	border:1px solid #CCCCCC;
+}
+#tmp_contents table.datatable caption {
+	padding:0 0 0.5em; /* 変更しない */
+	font-weight:bold; /* 変更しない */
+	text-align:left; /* 変更しない */
+}
+#tmp_contents table.datatable p {
+	margin:0; /* 変更しない */
+}
+#tmp_contents table.datatable ul,
+#tmp_contents table.datatable ol {
+	margin:0.2em 0 0 24px; /* 変更しない */
+}
+#tmp_contents table.datatable ul ul,
+#tmp_contents table.datatable ul ol,
+#tmp_contents table.datatable ol ul,
+#tmp_contents table.datatable ol ol {
+	margin:0.3em 0 0 24px; /* 変更しない */
+}
+/* bgcolor */
+/* ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼ */
+/* 構築シートによって種類増減 */
+#tmp_contents table.datatable table th.bg_red {
+	color:inherit;
+	background-color:#FCECEC; /* shared.cssのbg_redと同じ値を設定 */
+}
+#tmp_contents table.datatable table th.bg_yellow {
+	color:inherit;
+	background-color:#FBFBDF; /* shared.cssのbg_yellowと同じ値を設定 */
+}
+#tmp_contents table.datatable table th.bg_blue {
+	color:inherit;
+	background-color:#EBF9FC; /* shared.cssのbg_blueと同じ値を設定 */
+}
+#tmp_contents table.datatable table th.bg_gray {
+	color:inherit;
+	background-color:#E9E9E9; /* shared.cssのbg_grayと同じ値を設定 */
+}
+#tmp_contents table.datatable table th.bg_green {
+	color:inherit;
+	background-color:#EDFBEE; /* shared.cssのbg_greenと同じ値を設定 */
+}
+#tmp_contents table.datatable table th.bg_purple {
+	color:inherit;
+	background-color:#EDE9FA; /* shared.cssのbg_purpleと同じ値を設定 */
+}
+/* ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲ */
+/* nestdatatable
+============================== */
+#tmp_contents table.datatable table {
+	border:none; /* 変更しない */
+}
+#tmp_contents table.datatable table th {
+	color:inherit; /* 変更しない */
+	background-color:transparent; /* 変更しない */
+	border:none; /* 変更しない */
+}
+#tmp_contents table.datatable table td {
+	border:none; /* 変更しない */
+}
+#tmp_contents table.datatable table.datatable {
+	border:1px solid #CCCCCC; /* table.datatableと同じ値を設定 */
+}
+#tmp_contents table.datatable table.datatable th {
+	color:inherit; /* 変更しない */
+	background-color:#FEE7E7; /* table.datatable thと同じ値を設定 */
+	border:1px solid #CCCCCC; /* table.datatable thと同じ値を設定 */
+}
+#tmp_contents table.datatable table.datatable td {
+	border:1px solid #CCCCCC; /* table.datatable tdと同じ値を設定 */
+}
+/* ==================================================
+contents
+================================================== */
+/* readall_area
+============================== */
+#tmp_contents .readall_area {
+	border-top:1px solid #CCCCCC;
+	padding:7px 6px;
+}
+#tmp_contents .readall_area p {
+	margin-right:1em;
+	margin-bottom:0;
+	float:left;
+}
+/* box_emergency_anchor
+============================== */
+#tmp_contents .box_emergency_anchor ul {
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+#tmp_contents .box_emergency_anchor ul li {
+	margin-bottom:12px;
+}
+#tmp_contents .box_emergency_anchor ul li a {
+	padding:5px 12px;
+	margin:0;
+	font-weight:bold;
+	display:block;
+	background-color:#FEE7E7;
+}
+/* ==================================================
+clearfix
+================================================== */
+/* for modern browser */
+#tmp_contents div.outline:after,
+#tmp_contents div.box_info:after,
+#tmp_contents div.box_info_ttl:after,
+#tmp_contents div.box_info_cnt:after,
+#tmp_contents div.box_link:after,
+#tmp_contents div.box_link_ttl:after,
+#tmp_contents div.box_link_cnt:after,
+#tmp_contents .readall_area:after,
+#tmp_contents .box_emergency_area:after,
+#tmp_contents .box_emergency_anchor:after,
+#tmp_contents .box_emergencys:after,
+#tmp_contents .box_emergency:after {
+	content: ""; /* 変更しない */
+	display: table; /* 変更しない */
+	clear: both; /* 変更しない */
+}
+/* ==================================================
+print
+================================================== */
+@media print {
+#tmp_wrapper {
+	width:100% !important;
+}
+#tmp_header {
+	margin-bottom:10px !important;
+	padding-bottom:10px !important;
+	border-bottom:1px solid #000000 !important;
+}
+#tmp_footer {
+	margin-top:10px !important;
+	padding-top:10px !important;
+	border-top:1px solid #000000 !important;
+}
+#tmp_hlogo {
+	padding:0 !important;
+}
+#tmp_means,
+.pnavi,
+.plugin {
+	display:none !important;
+}
+#tmp_contents {
+	border:none !important;
+	margin:0 !important;
+	padding:0 10px !important;
+}
+/* for Firefox */
+#tmp_main:after,
+.col_nm:after {
+	content:"."; /* 変更しない */
+	height:1px; /* 変更しない */
+
+}
+}
